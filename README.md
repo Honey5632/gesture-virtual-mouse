@@ -115,7 +115,8 @@ gesture-virtual-mouse/
     └── preview.mp4          # Screenshot/Preview videos
 ```
 
-> 🖼️ Place a screenshot or demo GIF inside the `assets/` folder and name it `preview.png`.
+<img width="607" height="745" alt="Screenshot 2025-11-03 120314" src="https://github.com/user-attachments/assets/59b0c34b-60e4-4985-b9ba-b05951a208ec" />
+
 
 ---
 
