@@ -1,7 +1,7 @@
 # 🖐️ Gesture Virtual Mouse using Python
 
 <p align="center">
-  <img src="assets/preview.png" alt="Project Preview" width="800"/>
+  <img src="assets/project_overview.mp4" alt="Project Preview" width="800"/>
 </p>
 
 <p align="center">
