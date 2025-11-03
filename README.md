@@ -1,10 +1,6 @@
 # 🖐️ Gesture Virtual Mouse using Python
 
 <p align="center">
-  <img src="assets/project_overview.mp4" alt="Project Preview" width="800"/>
-</p>
-
-<p align="center">
   <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3.8%2B-blue.svg?style=flat-square"></a>
   <a href="https://opencv.org/"><img src="https://img.shields.io/badge/OpenCV-Enabled-green.svg?style=flat-square"></a>
   <a href="https://mediapipe.dev/"><img src="https://img.shields.io/badge/MediaPipe-Hand_Tracking-orange.svg?style=flat-square"></a>
